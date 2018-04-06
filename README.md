@@ -9,7 +9,7 @@ Think it could look even sexier? Pull requests are very welcome!
 ## Install
 Install the Glimmer Dark Syntax theme via Atom by going to Preferences/Settings → Install and search for "glimmer-dark-syntax" (make sure you're searching under "Themes"), or install through the command line:
 ```
-apm install city-lights-syntax
+apm install glimmer-dark-syntax
 ```
 
 ## Feedback/Issues
