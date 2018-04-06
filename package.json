@@ -1,13 +1,13 @@
 {
   "name": "glimmer-dark-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "1.0.0",
+  "description": "A dark background with glimmering colors.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/glimmer-dark-syntax",
+  "repository": "https://github.com/ianpaschal/glimmer-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
