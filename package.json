@@ -2,7 +2,7 @@
   "name": "glimmer-dark-syntax",
   "theme": "syntax",
   "version": "1.1.0",
-  "description": "A dark background with glimmering colors.",
+  "description": "An Atom syntax theme with a dark background and glimmering colors.",
   "keywords": [
     "syntax",
     "theme"
