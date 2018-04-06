@@ -334,3 +334,16 @@
 .atom-text-editor[mini] .scroll-view {
   padding-left: 1px;
 }
+.meta.structure.dictionary.json {
+  color: @oc-blue-2;
+
+  // make all strings
+  & > .string.quoted.json {
+    color: @syntax-text-color;
+  }
+
+  // make an exception for all .string keys whose immediate parent is .value
+  & > .value.json > .string.json {
+    color: @oc-orange-4;
+  }
+}
